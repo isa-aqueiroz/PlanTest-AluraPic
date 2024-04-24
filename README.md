@@ -4,7 +4,7 @@ Este repositório contém o plano de testes e gestão de bugs desenvolvido duran
 
 ## Descrição
 
-O plano de testes abrange todas as funcionalidades do sistema AluraPic, incluindo cadastro, login, manipulação de fotos, entre outras. Ele foi elaborado com o objetivo de garantir a qualidade e robustez do software, seguindo as práticas recomendadas em qualidade de software.
+O plano de testes abrange todas as funcionalidades do sistema AluraPic, incluindo cadastro, login, manipulação de fotos, entre outras. Ele foi elaborado com o objetivo de garantir a qualidade do software.
 
 ## Como Usar
 
